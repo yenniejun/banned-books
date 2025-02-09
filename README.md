@@ -1,6 +1,5 @@
 # Banned Books Analysis
-Analysis of banned books corresponding with the article: [The Forbidden Pages: A Data Analysis of Book Bans in the US](https://blog.yenniejun.com/p/the-forbidden-pages-a-data-analysis). This repository has the Jupyter notebook and related data from the article.
-
+Analysis of banned books corresponding with the article: [The Forbidden Pages: A Data Analysis of Book Bans in the US](https://www.artfish.ai/p/the-forbidden-pages-a-data-analysis). This repository has the Jupyter notebook and related data from the article.
 
 ![Article coverphoto of woman in the middle of falling books](coverphoto2.png)
 
