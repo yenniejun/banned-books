@@ -28,4 +28,4 @@ The book bans dataset was compiled by [PEN America](https://pen.org/about-us/), 
 
 1. Set up the Google Books API following [these instructions](https://developers.google.com/books/docs/v1/using). Once you finish registering, you will have a Google Books API key. Set that as an environment variable (refer [here](https://devconnected.com/set-environment-variable-bash-how-to/) if unsure how) as `GOOGLE_API_KEY`. This API is free to use.
 
-2. Sign up for an OpenAI API and set that as an environment varaible as `"`OPENAI_API_KEY`. This API is pay-as-you-go.
+2. Sign up for an OpenAI API and set that as an environment varaible as `OPENAI_API_KEY`. This API is pay-as-you-go.
